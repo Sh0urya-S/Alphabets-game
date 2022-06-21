@@ -1,0 +1,1 @@
+make sure u have all the audio files as well from the repos, double click on 'game.exe' and you're good to go
